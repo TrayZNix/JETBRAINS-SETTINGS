@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="TrayZNix" id="ce9910cf-67b2-4d94-b8b6-45a98113f4ae">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
