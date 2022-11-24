@@ -1,0 +1,41 @@
+<keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="Arrangement.Alias.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Group.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Group.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
+  <action id="Console.Execute.Multiline" />
+  <action id="CopyAbsolutePath" />
+  <action id="CopyPaths" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="EditorStartNewLine">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="EditorStartNewLineBefore" />
+  <action id="KotlinShellExecute" />
+  <action id="MethodDown" />
+  <action id="MethodUp" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="ShowContent" />
+  <action id="ShowSearchHistory" />
+  <action id="SplitChooser.Duplicate" />
+  <action id="Terminal.SmartCommandExecution.Run" />
+  <action id="UsageView.ShowRecentFindUsages" />
+  <action id="ViewSource" />
+  <action id="WelcomeScreen.CopyProjectPath" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleCodeSpanAction" />
+</keymap>
