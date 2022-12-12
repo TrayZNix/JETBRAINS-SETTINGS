@@ -1,8 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="accentColor" value="ffd866" />
-    <option name="selectedTheme" value="MONOKAI" />
+    <option name="accentColor" value="387bff" />
+    <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="28c55eaa:1848637ee5e:-8000" />
-    <option name="version" value="7.14.2" />
+    <option name="version" value="8.3.2" />
   </component>
 </application>
